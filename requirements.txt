@@ -1,0 +1,3 @@
+Brotli
+requests
+pendulum
